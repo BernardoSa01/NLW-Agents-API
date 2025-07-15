@@ -8,6 +8,20 @@
       "when": 1752173753765,
       "tag": "0000_brief_valeria_richards",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752321057739,
+      "tag": "0001_glorious_starhawk",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752321740284,
+      "tag": "0002_unknown_katie_power",
+      "breakpoints": true
     }
   ]
 }
